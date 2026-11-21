@@ -1,0 +1,4 @@
+Character illustration: peep-96 from Open Peeps by Pablo Stanley.
+License: CC0 1.0 Universal (Public Domain Dedication).
+Source: https://www.openpeeps.com/
+The illustration is bundled locally and adapted with an AERIS-colored protective mask.
